@@ -3,6 +3,7 @@
 # Credits to Alexander Shorin:
 # https://github.com/kxepal/python-astm
 
+
 from senaite.astm.compat import unicode
 from senaite.astm.constants import COMPONENT_SEP
 from senaite.astm.constants import CR
